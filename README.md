@@ -1,4 +1,4 @@
-tompaboss utalom a ciganyokat es budosek
+
 
 <!---
 T0mpaDzsonsz/T0mpaDzsonsz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
